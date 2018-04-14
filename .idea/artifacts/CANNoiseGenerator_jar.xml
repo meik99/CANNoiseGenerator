@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CANNoiseGenerator:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CANNoiseGenerator_jar</output-path>
+    <root id="archive" name="CANNoiseGenerator.jar">
+      <element id="module-output" name="CANNoiseGenerator" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/jssc-2.8.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/USBtinLib-1.2.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
